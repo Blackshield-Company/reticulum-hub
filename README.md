@@ -1,3 +1,5 @@
+![reticulum-hub](.github/preview.png)
+
 # Reticulum Hub
 
 A web dashboard for managing [Reticulum](https://reticulum.network/) mesh networks. Built with Rails 8, Hotwire, and Tailwind CSS.
